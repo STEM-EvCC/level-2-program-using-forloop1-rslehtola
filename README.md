@@ -9,7 +9,3 @@ Class: STEM 103 Spring
 # Program: Main
 
 # What I learned
-
-# Program: Modify
-
-# What I leanred
