@@ -38,7 +38,7 @@ print("Number of successful missions:", total_success)
 print(f"Success rate: {success_rate:.2f}%")
 
 # Print the missions launched before 2000
-print("Missions launched the year 2000:")
+print("Missions launched before the year 2000:")
 
 for mission in missions_pre2000:
     print(mission)
