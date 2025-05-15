@@ -5,11 +5,13 @@
 
 # Notes:
 
-#
+# When executed, this program will print the total number of space missions, total 
+# number of successful space missions, percentage of successful space missions and 
+# all space missions pre year 2000.
 
 # What I learned:
 
-#
+# Trial and error is messy and long. 
 
 # Assignment:
 
@@ -39,18 +41,3 @@ print("Missions launched pre 2000: ")
 
 for mission in missions_pre2000:
     print(mission)
-
-# Use a for loop to iterate through the list of missions.
-# Count the total number of missions.
-# Count the number of successful missions.
-# Identify and list all missions launched before the year 2000.
-
-# Print the total number of missions.
-# Print the number of successful missions.
-# Print the success rate as a percentage.
-# Print the names of the missions launched before the year 2000.
-
-# Use a counter variable to keep track of the total number of missions and successful missions.
-# Use an if statement to check the year of each mission and whether it was successful.
-# Calculate the success rate using the formula: (number of successful missions / total number of missions) * 100.
-# Use string formatting to display the success rate with two decimal places. 
