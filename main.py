@@ -4,11 +4,13 @@
 # Class: STEM 103 Spring
 
 # Notes:
+
 # When executed, this program will print the total number of space missions, total 
 # number of successful space missions, percentage of successful space missions and 
 # all space missions pre year 2000.
 
 # What I learned:
+
 # Trial and error is messy and long. The list and for statement I created for missions 
 # pre 2000 was a complete and total nightmare. I used Ai for help on that one after I 
 # had enough head banging on my computer. Alot of the struggle was centered around 
@@ -16,6 +18,7 @@
 # assignment. I've discovered the importance of writing everything out step by step.
 
 # Assignment:
+
 mission_names = ['Apollo 11', 'Challenger', 'Curiosity Rover', 'Viking 1', 'Mars Pathfinder', 'Hubble Telescope', 'Apollo 13']
 mission_years = [1969, 1986, 2012, 1975, 1996, 1990, 1970]
 mission_success = [True, False, True, True, True, True, False]
