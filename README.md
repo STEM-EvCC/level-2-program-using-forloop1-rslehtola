@@ -15,8 +15,8 @@ all space missions before year 2000.
 # What I learned
 
 Trial and error is messy and long. The list and for statement I created for missions 
-pre 2000 was a complete and total nightmare. I used Ai and the Think Python book for help after I 
-had enough head banging on my computer. Alot of the struggle was centered around 
-organization so everything ran properly. Variables were much more complicated on this
-assignment. I've discovered the importance of writing everything out step by step
+pre 2000 was a complete and total nightmare. I used Ai and the Think Python book for 
+help after I had enough head banging on my computer. Alot of the struggle was centered 
+around organization so everything ran properly. Variables were much more complicated on 
+this assignment. I've discovered the importance of writing everything out step by step
 which is a much faster and cleaner process than winging it.
